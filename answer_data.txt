@@ -1,0 +1,90 @@
+khong_xac_dinh_cau_hoi| Xin lỗi chúng tôi không hiểu câu hỏi. Vui lòng chung cấp chi tiết hơn
+loi_chao|Chào mừng bạn đến với hệ thống nha khoa của chúng tôi! Chúng tôi rất hân hạnh được phục vụ và hỗ trợ bạn trong mọi vấn đề liên quan đến sức khỏe răng miệng.
+dich_vu|Chúng tôi cung cấp các dịch vụ nha khoa như làm răng, niềng răng, tẩy trắng răng và nhiều hơn nữa.
+dau_rang|Nếu bạn bị đau răng, hãy đến khám ngay để chúng tôi có thể giúp bạn.
+dat_hen|Bạn có thể đặt hẹn qua điện thoại hoặc trực tiếp tại phòng khám.
+trang_rang|Để có hàm răng trắng, bạn có thể thực hiện tẩy trắng tại phòng khám.
+bao_hiem|Chúng tôi chấp nhận một số loại bảo hiểm. Vui lòng liên hệ với chúng tôi để biết thêm chi tiết.
+lam_rang_gia|Có, chúng tôi cung cấp dịch vụ làm răng giả cho bệnh nhân.
+cham_soc_rang_tre|Chúng tôi có các chương trình chăm sóc răng miệng cho trẻ em, bao gồm cả kiểm tra và hướng dẫn đánh răng.
+kham_rang_dinh_ky|Khám răng định kỳ là rất quan trọng để phát hiện sớm các vấn đề về răng miệng.
+dich_vu_nguoi_lon|Chúng tôi có nhiều dịch vụ nha khoa phù hợp cho người lớn tuổi.
+kham_rang|Thời gian khám phụ thuộc vào tình trạng răng miệng của bạn, nhưng thường sẽ mất khoảng 30 phút.
+thuoc_giam_dau|Chúng tôi có thể tư vấn cho bạn về các loại thuốc giảm đau răng hiệu quả.
+phuc_hoi_nho_rang|Thời gian phục hồi sau khi nhổ răng thường từ 1 đến 2 tuần.
+kham_nha_si|Bạn nên đi khám nha sĩ nếu bạn có dấu hiệu đau hoặc có vấn đề về răng.
+tay_trang_rang|Dịch vụ tẩy trắng răng thường không gây đau, nhưng có thể cảm thấy hơi khó chịu.
+thanh_toan_the|Bạn có thể thanh toán bằng thẻ tín dụng hoặc thẻ ghi nợ.
+khuyen_mai|Chúng tôi thường có chương trình khuyến mãi cho dịch vụ nha khoa, bạn có thể hỏi thêm khi đến.
+nho_rang|Có, chúng tôi cung cấp dịch vụ nhổ răng cho những trường hợp cần thiết.
+chuan_bi_kham|Khi đến khám, bạn nên mang theo hồ sơ bệnh án nếu có.
+x_quang|Có, chúng tôi thực hiện x-quang để chẩn đoán các vấn đề về răng miệng.
+huy_lich_hen|Bạn có thể hủy lịch hẹn qua điện thoại hoặc trực tiếp tại phòng khám.
+gia_dich_vu|Giá cả cho các dịch vụ nha khoa phụ thuộc vào loại dịch vụ cụ thể.
+kham_dinh_ky|Có, bạn nên đi khám định kỳ 6 tháng một lần để giữ gìn sức khỏe răng miệng.
+loai_dich_vu|Chúng tôi cung cấp nhiều loại dịch vụ nha khoa từ kiểm tra đến điều trị chuyên sâu.
+phong_ngua_sau_rang|Để phòng ngừa sâu răng, bạn nên đánh răng thường xuyên và dùng chỉ nha khoa.
+nieu_rang_hieu_qua|Dịch vụ niềng răng rất hiệu quả nếu bạn tuân theo đúng hướng dẫn điều trị.
+so_nha_si|Phòng khám có đội ngũ nha sĩ chuyên nghiệp và giàu kinh nghiệm.
+nho_rang_dau|Có thể có một chút đau sau khi nhổ răng, nhưng chúng tôi sẽ giúp bạn giảm đau.
+kham_rang_ngay|Nếu bạn cảm thấy đau hoặc có triệu chứng bất thường, hãy đến khám ngay.
+quy_trinh_tay_trang|Quy trình tẩy trắng răng bao gồm kiểm tra, thực hiện tẩy trắng và tư vấn chăm sóc.
+thoi_gian_kham_nha_si|Thời gian khám nha sĩ thường từ 30 phút đến 1 giờ.
+kham_khong_dau|Có, nếu bạn không thấy đau thì vẫn nên đi khám để kiểm tra sức khỏe răng miệng.
+lay_mau_nuoc_bot|Có, chúng tôi có thể lấy mẫu nước bọt để kiểm tra sức khỏe răng miệng.
+dich_vu_tieu_duong|Chúng tôi cung cấp dịch vụ chăm sóc nha khoa cho bệnh nhân mắc bệnh tiểu đường.
+thoi_gian_nieng_rang|Thời gian điều trị niềng răng thường từ 1 đến 2 năm, tùy thuộc vào từng trường hợp.
+giu_gin_suc_khoe_rang_mieng|Bạn nên đánh răng ít nhất hai lần mỗi ngày và đến khám nha sĩ định kỳ.
+kham_rang_tai_nha|Có, chúng tôi cung cấp dịch vụ khám răng tại nhà cho bệnh nhân không thể đến phòng khám.
+lam_sach_rang_mieng|Bạn có thể làm sạch răng miệng bằng cách đánh răng và dùng chỉ nha khoa thường xuyên.
+van_de_loi|Chúng tôi có thể giúp bạn chẩn đoán và điều trị các vấn đề về lợi.
+hoitho_mui|Nếu hơi thở có mùi, bạn nên đến khám để tìm hiểu nguyên nhân và cách khắc phục.
+gia_tay_trang_rang|Giá dịch vụ tẩy trắng răng phụ thuộc vào phương pháp tẩy trắng bạn chọn.
+dieu_tri_sau_rang|Dịch vụ điều trị sâu răng thường bao gồm lấy tủy và trám răng.
+tim_hieu_dich_vu|Bạn có thể tìm hiểu thêm thông tin trên website hoặc liên hệ với chúng tôi.
+kham_mang_thai|Có, bạn nên tham khảo ý kiến bác sĩ về việc chăm sóc răng miệng khi mang thai.
+su_dung_chi_nha_khoa|Có, chúng tôi khuyến nghị sử dụng chỉ nha khoa để làm sạch kẽ răng.
+khuyen_mai_lan_kham_dau|Bạn có thể hỏi nhân viên về chương trình khuyến mãi khi đặt lịch hẹn đầu tiên.
+tu_van_truc_tuyen|Có, chúng tôi cung cấp dịch vụ tư vấn trực tuyến cho bệnh nhân.
+thoi_gian_lam_rang_gia|Thời gian làm răng giả phụ thuộc vào phương pháp và tình trạng răng miệng của bạn.
+dich_vu_nha_khoa_tre_em|Có, chúng tôi có các dịch vụ chăm sóc răng miệng cho trẻ em.
+khoi_phuc_rang_mat|Chúng tôi có nhiều phương pháp để khôi phục răng đã mất, như làm răng giả hoặc cấy ghép.
+giam_dau_rang|Để giảm thiểu cơn đau răng, bạn có thể sử dụng thuốc giảm đau hoặc chườm lạnh.
+cham_soc_nha_khoa|Chúng tôi có chương trình chăm sóc nha khoa định kỳ cho bệnh nhân.
+nhan_biet_benh_nuou|Bạn có thể nhận biết bệnh nướu qua dấu hiệu chảy máu hoặc sưng lợi.
+dich_vu_dang_tin_cay|Chúng tôi cam kết cung cấp dịch vụ nha khoa chất lượng và đáng tin cậy.
+kham_rang_gia|Có, bạn nên đến khám để được tư vấn trước khi làm răng giả.
+kiem_soat_hoi_tho_mui|Để kiểm soát hơi thở có mùi, bạn nên duy trì vệ sinh răng miệng tốt.
+nhan_benh_nhan_moi|Có, chúng tôi luôn chào đón bệnh nhân mới đến khám.
+thoi_gian_dieu_tri_nha_khoa|Thời gian điều trị phụ thuộc vào tình trạng răng miệng và loại dịch vụ bạn chọn.
+cham_soc_nguoi_cao_tuoi|Chúng tôi có các chương trình chăm sóc nha khoa dành riêng cho người cao tuổi.
+gia_tri_nieng_rang|Dịch vụ niềng răng rất có giá trị vì nó giúp cải thiện hình dáng và sức khỏe răng miệng.
+dat_hen_truc_tuyen|Có, bạn có thể đặt hẹn trực tuyến qua website của chúng tôi.
+tuyet_dinh_tay_trang|Bạn nên thực hiện tẩy trắng răng để cải thiện độ trắng sáng của hàm răng.
+danh_rang_sau_an|Có, bạn nên đánh răng sau khi ăn để giữ cho răng miệng sạch sẽ và khỏe mạnh.
+giam_dau_rang_ngay|Bạn có thể chườm lạnh hoặc sử dụng thuốc giảm đau để làm dịu cơn đau răng ngay lập tức.
+chua_tuy_dau|Dịch vụ chữa tủy có thể gây cảm giác khó chịu nhưng chúng tôi sẽ làm mọi cách để giảm đau cho bạn.
+hoitinh_trang_rang_mieng|Bạn có thể hỏi bác sĩ nha khoa hoặc liên hệ với phòng khám của chúng tôi để được tư vấn về tình trạng răng miệng.
+kham_khong_trieu_chung|Có, bạn vẫn nên đến gặp nha sĩ để kiểm tra định kỳ, ngay cả khi không có triệu chứng.
+dich_vu_thanh_thieu_nien|Chúng tôi có nhiều dịch vụ nha khoa phù hợp với thanh thiếu niên, bao gồm kiểm tra và điều trị.
+bao_ve_rang_tre|Bạn nên hướng dẫn trẻ em cách đánh răng đúng cách và đưa trẻ đi khám nha sĩ định kỳ để bảo vệ răng miệng.
+cai_thien_suc_khoe_rang|Để cải thiện sức khỏe răng miệng, bạn nên đánh răng ít nhất hai lần mỗi ngày và dùng chỉ nha khoa.
+gia_nho_rang|Giá dịch vụ nhổ răng tùy thuộc vào tình trạng và phương pháp nhổ, bạn có thể liên hệ để biết thêm chi tiết.
+thong_tin_suc_khoe_rang|Bạn có thể tìm thấy thông tin về sức khỏe răng miệng trên website của chúng tôi hoặc qua các tài liệu nha khoa.
+dieu_tri_viem_loi_dau|Dịch vụ điều trị viêm lợi có thể gây khó chịu nhưng chúng tôi sẽ hỗ trợ bạn trong quá trình điều trị.
+phong_ngua_viem_loi|Để phòng ngừa bệnh viêm lợi, bạn nên duy trì vệ sinh răng miệng tốt và kiểm tra định kỳ.
+yeu_cau_bac_si|Có, bạn có thể yêu cầu bác sĩ nha khoa tư vấn về tình trạng răng miệng của bạn.
+dieu_tri_benh_nuou|Có, bạn nên điều trị bệnh nướu ngay lập tức để tránh các biến chứng nghiêm trọng.
+dieu_tri_sau_rang|Chúng tôi có thể điều trị sâu răng tại phòng khám của chúng tôi.
+thoi_gian_dieu_tri_sau_rang|Thời gian điều trị sâu răng thường mất từ 30 phút đến 1 giờ, tùy thuộc vào mức độ nghiêm trọng.
+phuong_phap_lam_rang_gia|Chúng tôi có nhiều phương pháp làm răng giả như răng giả tháo lắp hoặc răng cấy ghép.
+giam_gia_dich_vu|Có, chúng tôi thường xuyên có chương trình giảm giá cho một số dịch vụ nha khoa.
+lay_mau_xet_nghiem|Có, bạn có thể yêu cầu lấy mẫu để xét nghiệm và chúng tôi sẽ hướng dẫn bạn.
+bao_hiem_nha_khoa|Nhiều dịch vụ nha khoa được bảo hiểm, bạn nên kiểm tra với công ty bảo hiểm của mình.
+lam_sach_rang_dinh_ky|Có, chúng tôi cung cấp dịch vụ làm sạch răng định kỳ để giữ cho răng miệng của bạn luôn khỏe mạnh.
+gap_nha_si_phau_thuat|Có, bạn nên gặp nha sĩ trước khi phẫu thuật để được tư vấn và chuẩn bị tốt nhất.
+cham_soc_rang_mieng|Có, chúng tôi có nhiều thông tin về cách chăm sóc răng miệng mà bạn có thể tìm hiểu thêm.
+chan_doan_benh_rang_mieng|Bạn có thể chẩn đoán bệnh răng miệng thông qua các triệu chứng và kiểm tra từ bác sĩ nha khoa.
+hoitai_kham_nha_si|Bạn nên hỏi bác sĩ về tình trạng răng miệng của bạn, các phương pháp điều trị và cách chăm sóc.
+cai_thien_suc_khoe_rang_mieng|Chúng tôi có thể tư vấn cho bạn các phương pháp cải thiện sức khỏe răng miệng hiệu quả.
+tuyet_dinh_x_quang|X-quang giúp chẩn đoán chính xác tình trạng răng miệng và phát hiện các vấn đề tiềm ẩn.

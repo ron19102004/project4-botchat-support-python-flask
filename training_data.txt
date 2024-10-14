@@ -1,0 +1,105 @@
+Xin chào!|loi_chao
+Chào bạn!|loi_chao
+Chào mọi người!|loi_chao
+Xin chào, tôi cần giúp đỡ.|loi_chao
+Chào bác sĩ!|loi_chao
+Chào, tôi muốn hỏi về điều gì đó.|loi_chao
+Chào! Có ai ở đây không?|loi_chao
+Xin chào! Rất vui được gặp bạn.|loi_chao
+Chào bạn, tôi đang tìm kiếm thông tin về nha khoa.|loi_chao
+Hi! Tôi có câu hỏi cho bạn.|loi_chao
+Chào, có ai có thể giúp tôi không?|loi_chao
+Xin chào, tôi muốn tư vấn nha khoa.|loi_chao
+Chào buổi sáng!|loi_chao
+Chào buổi chiều!|loi_chao
+Chào buổi tối!|loi_chao
+Hi, có thể giúp tôi không?|loi_chao
+Chào, tôi muốn hỏi về tình trạng răng miệng.|loi_chao
+Bạn cung cấp những dịch vụ gì?|dich_vu
+Đau răng thì tôi nên làm gì?|dau_rang
+Tôi có thể đặt hẹn không?|dat_hen
+Làm thế nào để có được hàm răng trắng?|trang_rang
+Bạn có chấp nhận bảo hiểm không?|bao_hiem
+Có dịch vụ làm răng giả không?|lam_rang_gia
+Tôi cần chăm sóc răng miệng cho trẻ nhỏ?|cham_soc_rang_tre
+Tại sao tôi nên đi khám răng định kỳ?|kham_rang_dinh_ky
+Các bạn có dịch vụ nào cho người lớn tuổi không?|dich_vu_nguoi_lon
+Bao lâu tôi nên đi khám răng một lần?|kham_rang
+Có thuốc nào để giảm đau răng không?|thuoc_giam_dau
+Thời gian phục hồi sau khi nhổ răng là bao lâu?|phuc_hoi_nho_rang
+Khi nào thì cần đi khám nha sĩ?|kham_nha_si
+Dịch vụ tẩy trắng răng có đau không?|tay_trang_rang
+Tôi có thể thanh toán bằng thẻ không?|thanh_toan_the
+Có chương trình khuyến mãi nào không?|khuyen_mai
+Bạn có cung cấp dịch vụ nhổ răng không?|nho_rang
+Cần chuẩn bị gì khi đến khám?|chuan_bi_kham
+Có thực hiện x-quang không?|x_quang
+Tôi có thể hủy lịch hẹn không?|huy_lich_hen
+Giá cả cho dịch vụ làm răng là bao nhiêu?|gia_dich_vu
+Có cần phải đến khám định kỳ không?|kham_dinh_ky
+Có bao nhiêu loại dịch vụ nha khoa?|loai_dich_vu
+Làm thế nào để phòng ngừa sâu răng?|phong_ngua_sau_rang
+Dịch vụ niềng răng có hiệu quả không?|nieu_rang_hieu_qua
+Bạn có bao nhiêu nha sĩ làm việc ở đây?|so_nha_si
+Nhổ răng có gây đau không?|nho_rang_dau
+Có phải tôi nên đi khám răng ngay?|kham_rang_ngay
+Bạn có thể giải thích về quy trình tẩy trắng răng không?|quy_trinh_tay_trang
+Khi nào thì tôi nên đến khám nha sĩ?|thoi_gian_kham_nha_si
+Có cần phải đến khám nếu tôi không thấy đau?|kham_khong_dau
+Tôi có thể lấy mẫu nước bọt để kiểm tra không?|lay_mau_nuoc_bot
+Các bạn có dịch vụ nào cho người mắc bệnh tiểu đường không?|dich_vu_tieu_duong
+Thời gian điều trị niềng răng mất bao lâu?|thoi_gian_nieng_rang
+Làm thế nào để giữ gìn sức khỏe răng miệng?|giu_gin_suc_khoe_rang_mieng
+Có dịch vụ khám răng tại nhà không?|kham_rang_tai_nha
+Có thể làm sạch răng miệng bằng cách nào?|lam_sach_rang_mieng
+Bạn có thể giải thích về các vấn đề về lợi không?|van_de_loi
+Tôi có cần phải lo lắng về hơi thở có mùi không?|hoitho_mui
+Giá cả cho dịch vụ tẩy trắng răng là bao nhiêu?|gia_tay_trang_rang
+Dịch vụ điều trị sâu răng có đau không?|dieu_tri_sau_rang
+Tôi có thể tìm hiểu thêm về dịch vụ nha khoa ở đâu?|tim_hieu_dich_vu
+Có phải đi khám nếu tôi đang mang thai?|kham_mang_thai
+Có nên dùng chỉ nha khoa không?|su_dung_chi_nha_khoa
+Tôi có thể nhận khuyến mãi nào cho lần khám đầu tiên?|khuyen_mai_lan_kham_dau
+Có dịch vụ tư vấn trực tuyến không?|tu_van_truc_tuyen
+Thời gian làm răng giả là bao lâu?|thoi_gian_lam_rang_gia
+Bạn có cung cấp dịch vụ nha khoa cho trẻ em không?|dich_vu_nha_khoa_tre_em
+Có thể khôi phục răng đã mất bằng cách nào?|khoi_phuc_rang_mat
+Làm thế nào để giảm thiểu cơn đau răng?|giam_dau_rang
+Bạn có dịch vụ chăm sóc nha khoa định kỳ không?|cham_soc_nha_khoa
+Có cách nào để nhận biết bệnh nướu không?|nhan_biet_benh_nuou
+Dịch vụ nha khoa của bạn có đáng tin cậy không?|dich_vu_dang_tin_cay
+Có cần phải khám răng trước khi làm răng giả không?|kham_rang_gia
+Làm thế nào để kiểm soát hơi thở có mùi?|kiem_soat_hoi_tho_mui
+Bạn có nhận bệnh nhân mới không?|nhan_benh_nhan_moi
+Thời gian điều trị các vấn đề nha khoa là bao lâu?|thoi_gian_dieu_tri_nha_khoa
+Có chương trình chăm sóc răng miệng cho người cao tuổi không?|cham_soc_nguoi_cao_tuoi
+Dịch vụ niềng răng có giá trị như thế nào?|gia_tri_nieng_rang
+Có thể đặt hẹn trực tuyến không?|dat_hen_truc_tuyen
+Tại sao tôi nên thực hiện tẩy trắng răng?|tuyet_dinh_tay_trang
+Có cần phải đánh răng sau khi ăn không?|danh_rang_sau_an
+Có cách nào để làm dịu cơn đau răng ngay lập tức?|giam_dau_rang_ngay
+Dịch vụ chữa tủy có đau không?|chua_tuy_dau
+Tôi có thể hỏi về tình trạng răng miệng của mình ở đâu?|hoitinh_trang_rang_mieng
+Có nên đến gặp nha sĩ nếu không có triệu chứng?|kham_khong_trieu_chung
+Các bạn có dịch vụ nha khoa nào cho thanh thiếu niên không?|dich_vu_thanh_thieu_nien
+Tôi cần làm gì để bảo vệ răng miệng của con?|bao_ve_rang_tre
+Có thể làm gì để cải thiện sức khỏe răng miệng?|cai_thien_suc_khoe_rang
+Giá của dịch vụ nhổ răng là bao nhiêu?|gia_nho_rang
+Có thể tìm thấy thông tin về sức khỏe răng miệng ở đâu?|thong_tin_suc_khoe_rang
+Dịch vụ điều trị viêm lợi có đau không?|dieu_tri_viem_loi_dau
+Có cách nào để phòng ngừa bệnh viêm lợi không?|phong_ngua_viem_loi
+Tôi có thể yêu cầu bác sĩ về tình trạng răng miệng của mình không?|yeu_cau_bac_si
+Có cần phải điều trị bệnh nướu ngay lập tức không?|dieu_tri_benh_nuou
+Có thể điều trị sâu răng ở đâu?|dieu_tri_sau_rang
+Thời gian điều trị sâu răng thường mất bao lâu?|thoi_gian_dieu_tri_sau_rang
+Tôi có thể tìm hiểu về các phương pháp làm răng giả không?|phuong_phap_lam_rang_gia
+Có chương trình giảm giá cho dịch vụ nha khoa không?|giam_gia_dich_vu
+Có thể yêu cầu lấy mẫu để xét nghiệm không?|lay_mau_xet_nghiem
+Dịch vụ nha khoa có được bảo hiểm không?|bao_hiem_nha_khoa
+Có dịch vụ làm sạch răng định kỳ không?|lam_sach_rang_dinh_ky
+Có cần phải gặp nha sĩ trước khi phẫu thuật không?|gap_nha_si_phau_thuat
+Tôi có thể biết thêm về cách chăm sóc răng miệng không?|cham_soc_rang_mieng
+Có thể chẩn đoán bệnh răng miệng từ đâu?|chan_doan_benh_rang_mieng
+Tôi có thể hỏi gì khi đến khám nha sĩ?|hoitai_kham_nha_si
+Có thể giúp tôi cải thiện sức khỏe răng miệng không?|cai_thien_suc_khoe_rang_mieng
+Tại sao tôi nên thực hiện x-quang trước khi khám?|tuyet_dinh_x_quang
