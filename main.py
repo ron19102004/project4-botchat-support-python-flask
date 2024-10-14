@@ -5,25 +5,27 @@ from sklearn.model_selection import train_test_split
 from sklearn.naive_bayes import MultinomialNB
 from data import get_answer_data,get_training_data
 from flask import Flask, request, jsonify
+from flask_cors import CORS
 
 training_data = get_training_data()
 answer_data = get_answer_data()
 
-app = Flask(__name__)
+nltk.download('punkt_tab')
 
-nltk.download('punkt')
-
+# custom_stopwords = [
+#     "và", "là", "của", "trong", "không", "để", "một", "theo", "tại", "nhưng", 
+#     "thì", "đó", "lại", "hơn", "chỉ", "sẽ", "với", "nếu", "đang", "như", "thế",
+#     "khi", "vì", "có thể", "cũng", "đã", "hay", "mà", "mình", "ai", "đều",
+#     "làm", "bởi", "khác", "còn", "đến", "họ", "sau", "trước", "bên", "được",
+#     "tất cả", "đâu", "khoảng", "rất", "nhất", "thêm", "thể", "nhiều", "sao", 
+#     "vậy", "hầu hết", "bất cứ", "người", "thời gian", "cả", "chừng", "số", 
+#     "vô cùng", "gì", "từng", "thực sự", "bây giờ", "trong khi", "tại sao",
+#     "có lẽ", "ngày", "đau", "răng", "giúp", "tư vấn", "chăm sóc", "cần", "phải", "nên"
+# ]
 custom_stopwords = [
-    "và", "là", "của", "trong", "không", "để", "một", "theo", "tại", "nhưng", 
-    "thì", "đó", "lại", "hơn", "chỉ", "sẽ", "với", "nếu", "đang", "như", "thế",
-    "khi", "vì", "có thể", "cũng", "đã", "hay", "mà", "mình", "ai", "đều",
-    "làm", "bởi", "khác", "còn", "đến", "họ", "sau", "trước", "bên", "được",
-    "tất cả", "đâu", "khoảng", "rất", "nhất", "thêm", "thể", "nhiều", "sao", 
-    "vậy", "hầu hết", "bất cứ", "người", "thời gian", "cả", "chừng", "số", 
-    "vô cùng", "gì", "từng", "thực sự", "bây giờ", "trong khi", "tại sao",
-    "có lẽ", "ngày"
+    "và", "là", "của", "trong", "không", "có", "để", "một", "theo", "tại", "nhưng", 
+    "bạn", "các", "thì", "đó", "mới", "này", "lại", "hơn", "chỉ", "sẽ", "với", "nếu"
 ]
-
 def preprocess(text):
     tokens = nltk.word_tokenize(text)
     tokens = [word.lower() for word in tokens if word.isalpha()]
@@ -51,12 +53,33 @@ def predict_intent(text):
     probabilities = model.predict_proba(vectorized_text)[0]
     max_prob = max(probabilities)
     # Xác định ngưỡng
-    threshold = 0.05
+    threshold = 0.03
+    print(max_prob)
     if max_prob >= threshold:
         prediction = model.classes_[probabilities.argmax()]
     else:
         prediction = "khong_xac_dinh_cau_hoi"
     return prediction
+
+
+# def chat():
+#     print("Xin chào! Tôi có thể giúp gì cho bạn về nha khoa?")
+#     while True:
+#         user_input = input("Bạn: ")
+#         if user_input.lower() == "thoát":
+#             print("Tạm biệt! Hẹn gặp lại.")
+#             break
+#         intent = predict_intent(user_input)
+#         # Kiểm tra xem ý định có trong answer_data không
+#         if intent in answer_data:
+#             print(answer_data[intent])
+#         else:
+#             print("Xin lỗi, tôi không hiểu câu hỏi của bạn. Bạn có thể hỏi lại không?")
+
+# chat()
+
+app = Flask(__name__)
+CORS(app)
 
 @app.route('/chat', methods=['POST'])
 def chat():
