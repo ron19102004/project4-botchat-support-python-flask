@@ -11,10 +11,8 @@ answer_data = get_answer_data()
 
 app = Flask(__name__)
 
-# punkt_tab để tách văn bản
 nltk.download('punkt')
 
-# từ dừng tuỳ chỉnh
 custom_stopwords = [
     "và", "là", "của", "trong", "không", "để", "một", "theo", "tại", "nhưng", 
     "thì", "đó", "lại", "hơn", "chỉ", "sẽ", "với", "nếu", "đang", "như", "thế",
@@ -26,18 +24,16 @@ custom_stopwords = [
     "có lẽ", "ngày"
 ]
 
-# tiền xử lý đầu vào
 def preprocess(text):
     tokens = nltk.word_tokenize(text)
-    tokens = [word.lower() for word in tokens if word.isalpha()]  # Chỉ giữ lại chữ cái
-    tokens = [word for word in tokens if word not in custom_stopwords]  # Sử dụng danh sách tùy chỉnh
+    tokens = [word.lower() for word in tokens if word.isalpha()]
+    tokens = [word for word in tokens if word not in custom_stopwords]
     return ' '.join(tokens)
 
-# chuẩn hoá dữ liệu
 X = [preprocess(item["text"]) for item in training_data]
 y = [item["intent"] for item in training_data]
 
-# Vector hóa văn bản (Bag of Words)
+# (Bag of Words)
 vectorizer = CountVectorizer()
 X_vectorized = vectorizer.fit_transform(X)
 
@@ -48,7 +44,6 @@ X_train, X_test, y_train, y_test = train_test_split(X_vectorized, y, test_size=0
 model = MultinomialNB()
 model.fit(X_train, y_train)
 
-# Hàm để dự đoán ý định của câu hỏi
 def predict_intent(text):
     processed_text = preprocess(text)
     vectorized_text = vectorizer.transform([processed_text])
@@ -56,18 +51,17 @@ def predict_intent(text):
     probabilities = model.predict_proba(vectorized_text)[0]
     max_prob = max(probabilities)
     # Xác định ngưỡng
-    threshold = 0.05  # Bạn có thể điều chỉnh ngưỡng này
+    threshold = 0.05
     if max_prob >= threshold:
         prediction = model.classes_[probabilities.argmax()]
     else:
         prediction = "khong_xac_dinh_cau_hoi"
     return prediction
 
-# API cho phép người dùng nhập câu hỏi và nhận kết quả
 @app.route('/chat', methods=['POST'])
 def chat():
-    user_input = request.json.get('message')  # Nhận tin nhắn từ người dùng
-    intent = predict_intent(user_input)  # Dự đoán ý định
+    user_input = request.json.get('message')
+    intent = predict_intent(user_input)
     response = {
         "intent": intent,
         "message": answer_data[intent]
